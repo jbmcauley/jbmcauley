@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning:
     - Deeplearning & Neural Nets with Python: Tensorflow & Keras
     - AWS: SageMaker, scikit_learn, Athena, Apache Spark
-    - SQL: Data analysis and database query
+    - DGE: Differential Gene Expression analysis with python
   
 - 📫 How to reach me j.b.mcauley@sms.ed.ac.uk
 
