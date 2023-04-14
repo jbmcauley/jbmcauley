@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbmcauley
 - 👀 I’m interested in Machine Learning, Data Science, and Bioinformatics
 - 🌱 I’m currently learning:
-    - Deeplearning & Neural Nets with Python: Tensorflow & Keras
+    - Deep learning & Neural Nets with Python: Fast.ai
     - AWS: SageMaker, scikit_learn, Athena, Apache Spark
     - DGE: Differential Gene Expression analysis with python
   
