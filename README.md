@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jbmcauley
+- 🌿 I am a Quantitative Geneticist, Ecologist, and Wildlife Conservation Biologist
 - 👀 I’m interested in Machine Learning, Data Science, and Bioinformatics
 - 🌱 I’m currently learning:
     - Deep learning & Neural Nets with Python: Fast.ai
